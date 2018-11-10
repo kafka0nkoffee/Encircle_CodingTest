@@ -26,6 +26,14 @@ Solution Explanation
   with multi-digit values e.g. (add 123 456)
 - use a stack to handle pushing and popping elements and holding operands 
   for running operations on
+
+Run
+----
+
+1. In case of permission errros:
+  sudo chmod 755 calc.py
+2. To execute, follow the interface as in the problem statement:
+  ./calc.py "(add 12 12)"
   
 Assumptions
 -----------
